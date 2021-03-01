@@ -1,0 +1,15 @@
+\changetocdepth {4}
+\vspace {15pt}
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{6}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial Teórico}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Potenciais Evocados Visuais}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Potenciais Evocados Visuais de Estado Permanente (SSVEPs)}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Aplicabilidades e Empecilhos}{11}{section.2.3}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{12}{section*.6}%

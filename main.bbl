@@ -1,0 +1,196 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Belmonte 2000]{Belmonte2000}
+\abntrefinfo{Belmonte}{BELMONTE}{2000}
+{BELMONTE, M. Abnormal {{Attention}} in {{Autism Shown}} by {{Steady}}-{{State
+  Visual Evoked Potentials}}.
+\textbf{Autism}, v.~4, n.~3, p. 269--285, set. 2000.
+ISSN 1362-3613, 1461-7005.}
+
+\bibitem[Chang \textit{et al.} 2014]{Chang2014}
+\abntrefinfo{Chang \textit{et al.}}{CHANG \textit{et al.}}{2014}
+{CHANG, M.~H. \textit{et al.} An amplitude-modulated visual stimulation for
+  reducing eye fatigue in {{SSVEP}}-based brain\textendash computer interfaces.
+\textbf{Clinical Neurophysiology}, v.~125, n.~7, p. 1380--1391, jul. 2014.
+ISSN 13882457.}
+
+\bibitem[Craig \textit{et al.} 2012]{Craig2012}
+\abntrefinfo{Craig \textit{et al.}}{CRAIG \textit{et al.}}{2012}
+{CRAIG, A. \textit{et al.} Regional brain wave activity changes associated with
+  fatigue: {{Regional}} brain wave activity and fatigue.
+\textbf{Psychophysiology}, v.~49, n.~4, p. 574--582, abr. 2012.
+ISSN 00485772.}
+
+\bibitem[Godinez \textit{et al.} 2015]{GodinezTello2015}
+\abntrefinfo{Godinez \textit{et al.}}{GODINEZ \textit{et al.}}{2015}
+{GODINEZ, T. \textit{et al.} {Comparison of the influence of stimuli color on
+  steady-state visual evoked potentials}.
+\textbf{Revista Brasileira de Engenharia Biomedica}, v.~31, n.~3, p. 218--231,
+  2015.
+ISSN 19847742.}
+
+\bibitem[Han \textit{et al.} 2018]{hanHighlyInteractiveBrain2018}
+\abntrefinfo{Han \textit{et al.}}{HAN \textit{et al.}}{2018}
+{HAN, C. \textit{et al.} Highly {{Interactive Brain}}\textendash{{Computer
+  Interface Based}} on {{Flicker}}-{{Free Steady}}-{{State Motion Visual Evoked
+  Potential}}.
+\textbf{Scientific Reports}, v.~8, n.~1, p.~5835, dez. 2018.
+ISSN 2045-2322.}
+
+\bibitem[Heim e Keil 2019]{Heim2019}
+\abntrefinfo{Heim e Keil}{HEIM; KEIL}{2019}
+{HEIM, S.; KEIL, A. Quantifying {{Intermodal Distraction}} by {{Emotion During
+  Math Performance}}: {{An Electrophysiological Approach}}.
+\textbf{Frontiers in Psychology}, v.~10, p.~439, mar. 2019.
+ISSN 1664-1078.}
+
+\bibitem[Herrmann 2001]{Herrmann2001}
+\abntrefinfo{Herrmann}{HERRMANN}{2001}
+{HERRMANN, C.~S. {Human EEG responses to 1-100 Hz flicker: Resonance phenomena
+  in visual cortex and their potential correlation to cognitive phenomena}.
+\textbf{Experimental Brain Research}, v.~137, n.~3-4, p. 346--353, 2001.
+ISSN 00144819.}
+
+\bibitem[John e Picton 2000]{John2000}
+\abntrefinfo{John e Picton}{JOHN; PICTON}{2000}
+{JOHN, M.~S.; PICTON, T.~W. {Human auditory steady-state responses to
+  amplitude-modulated tones: Phase and latency measurements}.
+\textbf{Hearing Research}, v.~141, n.~1-2, p. 57--79, 2000.
+ISSN 03785955.}
+
+\bibitem[Kluge e Hartmann 2007]{Kluge2007}
+\abntrefinfo{Kluge e Hartmann}{KLUGE; HARTMANN}{2007}
+{KLUGE, T.; HARTMANN, M. Phase {{Coherent Detection}} of {{Steady}}-{{State
+  Evoked Potentials}}: {{Experimental Results}} and {{Application}} to
+  {{Brain}}-{{Computer Interfaces}}. In:  \textbf{2007 3rd {{International
+  IEEE}}/{{EMBS Conference}} on {{Neural Engineering}}}. {Kohala Coast, HI,
+  USA}: {IEEE}, 2007. p. 425--429.
+ISBN 978-1-4244-0791-0 978-1-4244-0792-7.}
+
+\bibitem[Liang \textit{et al.} 2020]{Liang2020}
+\abntrefinfo{Liang \textit{et al.}}{LIANG \textit{et al.}}{2020}
+{LIANG, L. \textit{et al.} Optimizing a dual-frequency and phase modulation
+  method for {{SSVEP}}-based {{BCIs}}.
+\textbf{Journal of Neural Engineering}, v.~17, n.~4, p. 046026, ago. 2020.
+ISSN 1741-2552.}
+
+\bibitem[M{\"u}ller \textit{et al.} 2006]{Muller2006}
+\abntrefinfo{M{\"u}ller \textit{et al.}}{M{\"U}LLER \textit{et al.}}{2006}
+{M{\"U}LLER, M.~M. \textit{et al.} Feature-selective attention enhances color
+  signals in early visual areas of the human brain.
+\textbf{Proceedings of the National Academy of Sciences of the United States},
+  v. 103(38), p. 14250(5), 2006.}
+
+\bibitem[{M{\"u}ller-Putz} \textit{et al.} 2005]{Muller2005a}
+\abntrefinfo{{M{\"u}ller-Putz} \textit{et al.}}{{M{\"u}ller-Putz} \textit{et
+  al.}}{2005}
+{{M{\"u}ller-Putz}, G.~R. \textit{et al.} Steady-state visual evoked potential
+  ({{SSVEP}})-based communication: Impact of harmonic frequency components.
+\textbf{Journal of Neural Engineering}, v.~2, n.~4, p. 123--130, dez. 2005.
+ISSN 1741-2560, 1741-2552.}
+
+\bibitem[Odom \textit{et al.} 2004]{odom2004}
+\abntrefinfo{Odom \textit{et al.}}{ODOM \textit{et al.}}{2004}
+{ODOM, J.~V. \textit{et al.} Visual evoked potentials standard (2004).
+p.~9, 2004.}
+
+\bibitem[Parra \textit{et al.} 2007]{Parra2007}
+\abntrefinfo{Parra \textit{et al.}}{PARRA \textit{et al.}}{2007}
+{PARRA, J. \textit{et al.} {Is colour modulation an independent factor in human
+  visual photosensitivity?}
+\textbf{Brain}, v.~130, n.~6, p. 1679--1689, 2007.
+ISSN 00068950.}
+
+\bibitem[Pastor \textit{et al.} 2003]{Pastor2003}
+\abntrefinfo{Pastor \textit{et al.}}{PASTOR \textit{et al.}}{2003}
+{PASTOR, M.~A. \textit{et al.} {Human Cerebral Activation during Steady-State
+  Visual-Evoked Responses}.
+v.~23, n.~37, p. 11621--11627, 2003.}
+
+\bibitem[Rager 1998]{Rager1998}
+\abntrefinfo{Rager}{RAGER}{1998}
+{RAGER, G. {The response of cat visual cortex to flicker stimuli of variable
+  frequency}.
+\textbf{European Journal of Neuroscience}, v.~10, n.~5, p. 1856--1877, 1998.
+ISSN 0953816X.}
+
+\bibitem[Ramos-J{\'{u}}nior \textit{et al.} 2011]{RamosJunior2011}
+\abntrefinfo{Ramos-J{\'{u}}nior \textit{et al.}}{RAMOS-J{\'{U}}NIOR \textit{et
+  al.}}{2011}
+{RAMOS-J{\'{U}}NIOR, S.~G. \textit{et al.} {Experimental evidences for visual
+  evoked potentials with stimuli beyond the conscious perception threshold}.
+\textbf{2011 ISSNIP Biosignals and Biorobotics Conference: Biosignals and
+  Robotics for Better and Safer Living, BRC 2011}, p. 86--90, 2011.}
+
+\bibitem[Regan 1966]{Regan1966}
+\abntrefinfo{Regan}{REGAN}{1966}
+{REGAN, D. {Some characteristics of average steady-state and transient
+  responses evoked by modulated light}.
+\textbf{Electroencephalography and Clinical Neurophysiology}, v.~20, n.~3, p.
+  238--248, 1966.
+ISSN 00134694.}
+
+\bibitem[Regan 1978]{Regan1978}
+\abntrefinfo{Regan}{REGAN}{1978}
+{REGAN, D. {Assessment of visual acuity by evoked potential recording:
+  Ambiguity caused by temporal dependence of spatial frequency selectivity}.
+\textbf{Vision Research}, v.~18, n.~4, p. 439--443, 1978.
+ISSN 00426989.}
+
+\bibitem[Regan 1982]{Regan1982}
+\abntrefinfo{Regan}{REGAN}{1982}
+{REGAN, D. {Comparison of Transient and Steady-State Methods}.
+\textbf{Annals of the New York Academy of Sciences}, v.~388, n.~1, p. 45--71,
+  1982.
+Dispon{\'\i}vel em:
+  \url{https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1982.tb50784.x}.}
+
+\bibitem[Regan e Spekreijse 1986]{Regan1986}
+\abntrefinfo{Regan e Spekreijse}{REGAN; SPEKREIJSE}{1986}
+{REGAN, D.; SPEKREIJSE, H. {Evoked potentials in vision research 1961-1986}.
+\textbf{Vision Research}, v.~26, n.~9, p. 1461--1480, 1986.
+ISSN 00426989.}
+
+\bibitem[Sakurada \textit{et al.} 2015]{Sakurada2015}
+\abntrefinfo{Sakurada \textit{et al.}}{SAKURADA \textit{et al.}}{2015}
+{SAKURADA, T. \textit{et al.} Use of high-frequency visual stimuli above the
+  critical flicker frequency in a {{SSVEP}}-based {{BMI}}.
+\textbf{Clinical Neurophysiology}, v.~126, n.~10, p. 1972--1978, out. 2015.
+ISSN 1388-2457.}
+
+\bibitem[Vialatte \textit{et al.} 2010]{Vialatte2010}
+\abntrefinfo{Vialatte \textit{et al.}}{VIALATTE \textit{et al.}}{2010}
+{VIALATTE, F.~B. \textit{et al.} {Steady-state visually evoked potentials:
+  Focus on essential paradigms and future perspectives}.
+\textbf{Progress in Neurobiology}, v.~90, n.~4, p. 418--438, 2010.
+ISSN 03010082.}
+
+\bibitem[Wang \textit{et al.} 2006]{Wang2006}
+\abntrefinfo{Wang \textit{et al.}}{WANG \textit{et al.}}{2006}
+{WANG, Y. \textit{et al.} {A practical VEP-based brain-computer interface}.
+\textbf{IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  v.~14, n.~2, p. 234--239, 2006.
+ISSN 15344320.}
+
+\bibitem[Wang \textit{et al.} 2017]{Wang2017}
+\abntrefinfo{Wang \textit{et al.}}{WANG \textit{et al.}}{2017}
+{WANG, Y.-T. \textit{et al.} An {{Online Brain}}-{{Computer Interface Based}}
+  on {{SSVEPs Measured From Non}}-{{Hair}}-{{Bearing Areas}}.
+\textbf{IEEE transactions on neural systems and rehabilitation engineering : a
+  publication of the IEEE Engineering in Medicine and Biology Society}, v.~25,
+  n.~1, p. 11--18, 2017.
+ISSN 1534-4320.}
+
+\bibitem[Zhang e Gao 2019]{Zhang2019}
+\abntrefinfo{Zhang e Gao}{ZHANG; GAO}{2019}
+{ZHANG, S.; GAO, X. The effect of visual stimuli noise and fatigue on
+  steady-state visual evoked potentials.
+\textbf{Journal of Neural Engineering}, v.~16, n.~5, p. 056023, set. 2019.
+ISSN 1741-2552.}
+
+\end{thebibliography}

@@ -28,7 +28,7 @@
   \capas
   \imprimircapa
   \imprimirfolhaderosto
-  \imprimirfichacatalografica
+  %\imprimirfichacatalografica
   % \includepdf[pages=-]{pre_textuais/ficha.pdf}
 
   % --------------------------------------------------- %
@@ -36,21 +36,21 @@
   % --------------------------------------------------- %
   % APROVAÇÃO, DEDICATÓRIA, AGRADECIMENTOS, EPÍGRAFE
   \pretextual
-  \imprimiraprovacao
+  %\imprimiraprovacao
   % \includepdf[pages=-]{pre_textuais/aprovacao.pdf}
-  \imprimirdedicatoria
-  \imprimiragradecimentos
-  \imprimirepigrafe
+  %\imprimirdedicatoria
+  %\imprimiragradecimentos
+  %\imprimirepigrafe
   
   % RESUMO - PT/EN
   \input{pre_textuais/resumo}
   
   % LISTAS E SUMÁRIO
   \imprimirlistafiguras
-  \imprimirlistatabelas
-  \imprimirlistaquadros
-  \imprimirlistasiglas
-  \imprimirlistasimbolos
+  %\imprimirlistatabelas
+  %\imprimirlistaquadros
+  %\imprimirlistasiglas
+  %\imprimirlistasimbolos
   \imprimirsumario
 
   % --------------------------------------------------- %
@@ -60,31 +60,30 @@
   \graphicspath{{figuras/}}   
   \input{textuais/introducao}
   \input{textuais/ref_teorico}
-  \input{textuais/conclusao}
-  \input{textuais/testes} % Deletar arquivo textuais/testes.tex
+  %\input{textuais/conclusao}
     
   % --------------------------------------------------- %
   % ELEMENTOS POS-TEXTUAIS %
   % --------------------------------------------------- %
-  \postextual
+  %\postextual
   
   % Referencias Bibliográficas
   \bibliographystyle{abntex2-alf} % Autor-Data
   \bibliography{bibliografia}
     
   % Apêndices
-  \begin{apendicesenv}
-    \input{pos_textuais/apendice.tex}
-  \end{apendicesenv}
+  %\begin{apendicesenv}
+  %  \input{pos_textuais/apendice.tex}
+  %\end{apendicesenv}
 
   % Anexos
-  \begin{anexosenv}
-    \input{pos_textuais/anexo.tex}
-    \input{pos_textuais/easyreview.tex}
-  \end{anexosenv}
+  %\begin{anexosenv}
+  %  \input{pos_textuais/anexo.tex}
+  %  \input{pos_textuais/easyreview.tex}
+  %\end{anexosenv}
 
   % Índice Remissivo
-  \phantompart
-  \printindex
+  %\phantompart
+  %\printindex
 
 \end{document}
